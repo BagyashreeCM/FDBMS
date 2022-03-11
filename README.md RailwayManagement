@@ -14,6 +14,6 @@ Passenger:- Name, Address, Gender, Age, Mobile Number, Aadhaar
 Train:-Number Number, Name, Arrival Time, Departure Time, Availability of seats, Source, Destination, Seats, Fare No., Booked user, Status, Number of Passengers
 
 Tickets:-No., Booked user, Status, Number of Passengers
-![ERD of reservation system](https://github.com/BagyashreeCM/FDBMS/blob/2aa8a9d12c3a04730154e0403f8227e5b67cfe96/ER%20RMS.png)
+![ERD of reservation system](https://github.com/BagyashreeCM/FDBMS/blob/main/ER%20RMS.png)
 
 
