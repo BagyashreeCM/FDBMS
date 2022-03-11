@@ -16,6 +16,6 @@ Train:-
 Number Number, Name, Arrival Time, Departure Time, Availability of seats, Source, Destination, Seats, Fare No., Booked user, Status, Number of Passengers
 
 Tickets:-
-![ERD of reservation system](https://github.com/BagyashreeCM/FDBMS/blob/df81c31e83cbf5ca9a124b2d09296bc64b9bce51/TRAIN%20RESERVATION%20ER.png)
+![ERD of reservation system](TRAIN RESERVATION ER.png)
 
 
